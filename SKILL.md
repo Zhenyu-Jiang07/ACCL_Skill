@@ -1,5 +1,5 @@
 ---
-name: cccl_to_accl_mapping_skill
+name: cccl-to-accl-mapping-skill
 description: 分析单个 CCCL 接口片段，输出 ACCL 映射结论、wrapper 判断与迁移风险说明
 ---
 
